@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Simple API Program using KAtalon</description>
+   <name>SimpleAPI</name>
+   <tag></tag>
+   <UUID>f1ff1dad-dcc1-45ce-9775-4fe446c056ad</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
